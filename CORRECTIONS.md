@@ -47,4 +47,4 @@
 - Иправил pipeline, добавил job deploy. Теперь билд приложения происходил по любому тегу, а деплой только по тегу типа semver
 [ci-cd.yml](https://github.com/bogkofe/app-diplom/blob/master/src/ci-cd.yml)
 
-![k](https://github.com/bogkofe/app-diplom/blob/master/files/20.png)
+![k](https://github.com/bogkofe/diplom/blob/main/files/20.png)
