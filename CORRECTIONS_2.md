@@ -2,7 +2,7 @@
 
 # 1.
 - Отдельно установил балансировщик metallb через helm настроил файлы где указал нужный мне внешний ip
-[metallb](https://github.com/bogkofe/kubernets-diplom/blob/master/metallb)
+[metallb](https://github.com/bogkofe/kubernetes-diplom/tree/master/metallb)
 
 - После ээтих действий на ingress контроллере наконецто появился external ip
 ![1](https://github.com/bogkofe/diplom/blob/main/files/30.png)
